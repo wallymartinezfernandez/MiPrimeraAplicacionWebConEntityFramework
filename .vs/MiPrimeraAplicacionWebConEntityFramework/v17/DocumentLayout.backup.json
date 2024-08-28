@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\views\\pantallaprincipal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\views\\pantallaprincipal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\views\\usuario\\_tablausuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\views\\usuario\\_tablausuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\controllers\\rolpaginacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\controllers\\rolpaginacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\controllers\\paginacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\controllers\\paginacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\filters\\acceder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\filters\\acceder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|c:\\users\\wmartinez\\downloads\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\miprimeraaplicacionwebconentityframework\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AD2A7265-B20A-4D44-97CC-5EC78FC584C7}|MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework.csproj|solutionrelative:miprimeraaplicacionwebconentityframework\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwEUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:39:25.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Views\\PantallaPrincipal\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\Views\\PantallaPrincipal\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Views\\PantallaPrincipal\\Index.cshtml",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\Views\\PantallaPrincipal\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T19:37:37.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_TablaUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Views\\Usuario\\_TablaUsuario.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\Views\\Usuario\\_TablaUsuario.cshtml",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Views\\Usuario\\_TablaUsuario.cshtml",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\Views\\Usuario\\_TablaUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T19:27:51.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaginaController.cs",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Controllers\\PaginaController.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\Controllers\\PaginaController.cs",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Controllers\\PaginaController.cs",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\Controllers\\PaginaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:06:53.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Acceder.cs",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Filters\\Acceder.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\Filters\\Acceder.cs",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Filters\\Acceder.cs",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\Filters\\Acceder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:04:43.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Web.config",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\Web.config",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Web.config",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-28T19:04:08.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:03:23.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T19:16:15.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T19:29:36.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwHIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:02:11.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Controllers\\RolController.cs",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\Controllers\\RolController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:07:00.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RolPaginaController.cs",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Controllers\\RolPaginaController.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\Controllers\\RolPaginaController.cs",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Controllers\\RolPaginaController.cs",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\Controllers\\RolPaginaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:07:07.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MarcaController.cs",
+              "DocumentMoniker": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Controllers\\MarcaController.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAplicacionWebConEntityFramework\\Controllers\\MarcaController.cs",
+              "ToolTip": "C:\\Users\\wmartinez\\Downloads\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\MiPrimeraAplicacionWebConEntityFramework\\Controllers\\MarcaController.cs",
+              "RelativeToolTip": "MiPrimeraAplicacionWebConEntityFramework\\Controllers\\MarcaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:02:06.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
